@@ -834,7 +834,7 @@
 
         width: 45px;
 
-        display: inline-flex;
+        display: inline-block;
 
         color: var(--text-color);
 
