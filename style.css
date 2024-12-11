@@ -816,7 +816,7 @@
 
         transition: all .45s ease;
            text-align: center;
-           
+       transform: translateY(5px);    
 
        }
 
@@ -824,7 +824,7 @@
 
         color: var(--text-color);
 
-        transform: translateY(5px);
+        transform: translateY(8px);
 
        }
 
@@ -840,7 +840,7 @@
 
         font-size: 22px;
 
-        display: inline;
+        display: inline-block;
 
         align-items: center;
 
