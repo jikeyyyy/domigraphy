@@ -834,13 +834,12 @@
 
         width: 45px;
 
-        
+        display: inline-flex;
 
         color: var(--text-color);
 
         font-size: 22px;
 
-        display: inline-block;
 
         align-items: center;
 
