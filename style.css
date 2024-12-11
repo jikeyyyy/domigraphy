@@ -902,6 +902,26 @@
 
       }
 
+
+.contactform-name, .contactform-email, .submit{
+    width: 100%;
+
+        padding: 14px;
+
+        background: var(--elle-color);
+
+        color: var(--text-color);
+
+        border: none;
+
+        outline: none;
+
+        font-size: 15px;
+
+        border-radius: 20px;
+
+        margin-bottom: 10px;
+}
       .contact-form textarea{
 
         resize: none;
