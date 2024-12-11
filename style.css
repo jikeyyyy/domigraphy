@@ -764,6 +764,8 @@
 
         font-weight: 600;
 
+         text-align: center;
+
       }
 
       .contact-text h2{
@@ -771,6 +773,7 @@
         font-size: var(--h2-font);
 
         line-height: 1;
+          text-align: center;
 
       }
 
@@ -783,6 +786,7 @@
         line-height: 1.8;
 
         margin-bottom: 30px;
+          text-align: center;
 
       }
 
@@ -807,6 +811,7 @@
         font-size: 14px;
 
         transition: all .45s ease;
+           text-align: center;
 
        }
 
