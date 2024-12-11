@@ -744,9 +744,9 @@
 
         background: var(--grey-color);
 
-        display: grid;
+       
 
-        grid-template-rows: 50% 50%;
+
 
         align-items: center;
 
