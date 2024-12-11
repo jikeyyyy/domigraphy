@@ -834,9 +834,7 @@
 
         width: 45px;
 
-        background-color:black;
-
-        display: inline-block;
+        display: inline;
 
         color: var(--text-color);
 
@@ -858,12 +856,14 @@
           justify-items: center;
           margin-left: -10px;
 
-        
-
-        
-
       }
-
+ .social-icon a{
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 4rem;
+  height: 4rem;
+ }
       .contact-icons i:hover{
 
         background: var(--text-color);
