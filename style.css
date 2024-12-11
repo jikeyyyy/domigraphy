@@ -766,7 +766,7 @@
         font-weight: 600;
 
          text-align: center;
-          justify-content: center;
+        justify-content: center;
 
       }
 
@@ -834,7 +834,7 @@
 
         width: 45px;
 
-        display: inline;
+        display: flex;
 
         color: var(--text-color);
 
@@ -857,13 +857,7 @@
           margin-left: -10px;
 
       }
- .social-icon a{
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-  width: 4rem;
-  height: 4rem;
- }
+ 
       .contact-icons i:hover{
 
         background: var(--text-color);
