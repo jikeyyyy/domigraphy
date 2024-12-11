@@ -840,7 +840,7 @@
 
         font-size: 22px;
 
-        display: inline-flex;
+        display: inline;
 
         align-items: center;
 
@@ -855,6 +855,7 @@
         margin-right: 15px;
 
         transition: all .45s ease;
+          justify-items: center;
 
         
 
